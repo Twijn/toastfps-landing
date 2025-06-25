@@ -5,9 +5,9 @@ import { ApiClient } from '@twurple/api';
 
 const authProvider = new RefreshingAuthProvider({
 	clientId: PUBLIC_TWITCH_CLIENT_ID,
-	clientSecret: PRIVATE_TWITCH_CLIENT_SECRET,
+	clientSecret: PRIVATE_TWITCH_CLIENT_SECRET
 });
 
 export default new ApiClient({
-	authProvider,
+	authProvider
 });

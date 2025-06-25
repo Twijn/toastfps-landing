@@ -23,21 +23,21 @@
 
 <style>
 	h2 {
-			font-size: 1rem;
-			text-transform: uppercase;
-			margin: .5rem 0;
+		font-size: 1rem;
+		text-transform: uppercase;
+		margin: 0.5rem 0;
 	}
 
 	@media only screen and (max-width: 1100px) {
-			section {
-          background-color: rgba(25,25,25,0.75);
-          backdrop-filter: blur(1em);
-          width: calc(100% - 4em);
-          max-width: 27.5em;
-          padding: 1em;
-          margin: 1em auto;
-          border-radius: .25em;
-          box-shadow: 0 0 1em rgba(0,0,0,0.25);
-			}
+		section {
+			background-color: rgba(25, 25, 25, 0.75);
+			backdrop-filter: blur(1em);
+			width: calc(100% - 4em);
+			max-width: 27.5em;
+			padding: 1em;
+			margin: 1em auto;
+			border-radius: 0.25em;
+			box-shadow: 0 0 1em rgba(0, 0, 0, 0.25);
+		}
 	}
 </style>
