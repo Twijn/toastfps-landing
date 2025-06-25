@@ -51,7 +51,7 @@ export const links: Link[] = [
 	},
 	// Social platforms
 	{
-		id: 'x',
+		id: 'x-twitter',
 		type: 'social',
 		name: 'X / Twitter',
 		url: 'https://x.com/TheToastFPS',
