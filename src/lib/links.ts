@@ -67,5 +67,14 @@ export const links: Link[] = [
 		icon: 'fa-brands fa-instagram',
 		color: '#ff3040',
 		description: 'Follow ToastFPS on Instagram!'
+	},
+	{
+		id: "tiktok",
+		type: "social",
+		name: "TikTok",
+		url: "https://www.tiktok.com/@toastfps",
+		icon: "fa-brands fa-tiktok",
+		color: "#25F4EE",
+		description: "Follow ToastFPS on TikTok!"
 	}
 ];
