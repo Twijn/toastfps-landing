@@ -5,22 +5,22 @@
 <svelte:head>
 	<title>TittyWorld.org</title>
 
-	<meta name="description" content="Watch ToastFPS live on Twitch, Kick, and YouTube.">
+	<meta name="description" content="Watch ToastFPS live on Twitch, Kick, and YouTube." />
 
 	<!-- Facebook Meta Tags -->
-	<meta property="og:url" content="https://tittyworld.org/">
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="ToastFPS">
-	<meta property="og:description" content="Watch ToastFPS live on Twitch, Kick, and YouTube.">
-	<meta property="og:image" content="https://tittyworld.org/images/background-image.webp">
+	<meta property="og:url" content="https://tittyworld.org/" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="ToastFPS" />
+	<meta property="og:description" content="Watch ToastFPS live on Twitch, Kick, and YouTube." />
+	<meta property="og:image" content="https://tittyworld.org/images/background-image.webp" />
 
 	<!-- Twitter Meta Tags -->
-	<meta name="twitter:card" content="summary_large_image">
-	<meta property="twitter:domain" content="tittyworld.org">
-	<meta property="twitter:url" content="https://tittyworld.org/">
-	<meta name="twitter:title" content="ToastFPS">
-	<meta name="twitter:description" content="Watch ToastFPS live on Twitch, Kick, and YouTube.">
-	<meta name="twitter:image" content="https://tittyworld.org/images/background-image.webp">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta property="twitter:domain" content="tittyworld.org" />
+	<meta property="twitter:url" content="https://tittyworld.org/" />
+	<meta name="twitter:title" content="ToastFPS" />
+	<meta name="twitter:description" content="Watch ToastFPS live on Twitch, Kick, and YouTube." />
+	<meta name="twitter:image" content="https://tittyworld.org/images/background-image.webp" />
 </svelte:head>
 
 <section>
