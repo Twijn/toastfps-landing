@@ -69,12 +69,21 @@ export const links: Link[] = [
 		description: 'Follow ToastFPS on Instagram!'
 	},
 	{
-		id: "tiktok",
-		type: "social",
-		name: "TikTok",
-		url: "https://www.tiktok.com/@toastfps",
-		icon: "fa-brands fa-tiktok",
-		color: "#25F4EE",
-		description: "Follow ToastFPS on TikTok!"
+		id: 'tiktok',
+		type: 'social',
+		name: 'TikTok',
+		url: 'https://www.tiktok.com/@toastfps',
+		icon: 'fa-brands fa-tiktok',
+		color: '#25F4EE',
+		description: 'Follow ToastFPS on TikTok!'
+	},
+	{
+		id: 'onlyfans',
+		type: 'social',
+		name: 'OnlyFans',
+		url: '/l/onlyfans',
+		icon: 'fa-solid fa-pepper-hot',
+		color: '#00AFF0',
+		description: '🌶️ 🌶️ 🌶️'
 	}
 ];
