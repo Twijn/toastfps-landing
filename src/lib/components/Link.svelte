@@ -8,7 +8,7 @@
 	} = $props();
 </script>
 
-<a href={link.url} target="_blank">
+<a href={link.useShortlink ? `/l/${link.id}` : link.url} target="_blank">
 	<i class={link.icon} style={link?.color ? `background-color: ${link.color};` : undefined}></i>
 	<div class="link-info">
 		<h3>{link.name}</h3>

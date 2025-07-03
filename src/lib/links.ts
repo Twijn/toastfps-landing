@@ -8,6 +8,7 @@ export type Link = {
 	icon: string;
 	color?: string;
 	description: string;
+	useShortlink?: boolean;
 };
 
 export const links: Link[] = [
@@ -47,7 +48,8 @@ export const links: Link[] = [
 		url: 'https://discord.com/invite/toastfps',
 		icon: 'fa-brands fa-discord',
 		color: '#5765f2',
-		description: 'Chat with the community on Discord!'
+		description: 'Chat with the community on Discord!',
+		useShortlink: true
 	},
 	// Social platforms
 	{
