@@ -1,5 +1,8 @@
 <script lang="ts">
+	import { injectAnalytics } from '@vercel/analytics/sveltekit';
 	import('$lib/css/master.css');
+
+	injectAnalytics();
 
 	const { children } = $props();
 </script>
